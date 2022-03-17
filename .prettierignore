@@ -1,0 +1,9 @@
+node_modules
+out
+.git
+.vscode
+build
+.github
+public
+dist
+.cache
